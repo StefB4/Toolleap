@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/rUQb9jo.png" alt="drawing" width="200" align="right"/>
+<img src="./imgs/ToolleapLogoBlackFontTransparent.png" alt="drawing" width="200" align="right"/>
 </p>
 
 &nbsp;
@@ -11,7 +11,7 @@ A virtual reality experiment to investigate the influence of tool knowledge on a
 
 SteamVR controllers        |  LeapMotion hand tracking
 :-------------------------:|:-------------------------:
-![](https://i.imgur.com/w0bB2JT.jpg)  |  ![](https://i.imgur.com/em8EfOp.jpg)
+![](./imgs/InExperimentController.PNG)  |  ![](./imgs/InExperimentLeap.PNG)
 
 
 &nbsp;
