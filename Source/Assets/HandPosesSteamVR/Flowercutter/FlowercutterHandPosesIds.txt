@@ -1,0 +1,10 @@
+Flowercutter Pose IDS (not formatted in any particular way, only for human interpretability) 
+
+FlowercutterOnHandleTopPoseEffectorToRight - ID Flowercutter_0
+FlowercutterOnHandleTopPoseEffectorToLeft - ID Flowercutter_1
+FlowercutterOnHandleBottomPoseEffectorToRight - ID Flowercutter_2
+FlowercutterOnHandleBottomPoseEffectorToLeft - ID Flowercutter_3
+FlowercutterOnEffectorTopPoseHandleToRight - ID Flowercutter_4
+FlowercutterOnEffectorTopPoseHandleToLeft - ID Flowercutter_5
+FlowercutterOnEffectorBottomPoseHandleToRight - ID Flowercutter_6
+FlowercutterOnEffectorBottomPoseHandleToLeft - ID Flowercutter_7

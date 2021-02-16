@@ -1,0 +1,14 @@
+Spatula Pose IDS (not formatted in any particular way, only for human interpretability) 
+
+SpatulaOnHandleTopPoseEffectorToRight - ID Spatula_0
+SpatulaOnHandleTopPoseEffectorToLeft - ID Spatula_1
+SpatulaOnHandleBottomPoseEffectorToRight - ID Spatula_2
+SpatulaOnHandleBottomPoseEffectorToLeft - ID Spatula_3
+SpatulaOnEffectorTopPoseEffectorToRight - ID Spatula_4
+SpatulaOnEffectorTopPoseEffectorToLeft - ID Spatula_5
+SpatulaOnEffectorBottomPoseEffectorToRight - ID Spatula_6
+SpatulaOnEffectorBottomPoseEffectorToLeft - ID Spatula_7
+
+
+
+

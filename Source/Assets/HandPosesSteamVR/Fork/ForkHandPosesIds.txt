@@ -1,0 +1,10 @@
+Fork Pose IDS (not formatted in any particular way, only for human interpretability) 
+
+ForkOnHandleTopPoseEffectorToRight - ID Fork_0
+ForkOnHandleTopPoseEffectorToLeft - ID Fork_1
+ForkOnHandleBottomPoseEffectorToRight - ID Fork_2
+ForkOnHandleBottomPoseEffectorToLeft - ID Fork_3
+ForkOnEffectorTopPoseHandleToRight - ID Fork_4
+ForkOnEffectorTopPoseHandleToLeft - ID Fork_5
+ForkOnEffectorBottomPoseHandleToRight - ID Fork_6
+ForkOnEffectorBottomPoseHandleToLeft - ID Fork_7

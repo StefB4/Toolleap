@@ -1,0 +1,10 @@
+Daisygrubber Pose IDS (not formatted in any particular way, only for human interpretability) 
+
+DaisygrubberOnHandleTopPoseEffectorToRight - ID Daisygrubber_0
+DaisygrubberOnHandleTopPoseEffectorToLeft - ID Daisygrubber_1
+DaisygrubberOnHandleBottomPoseEffectorToRight - ID Daisygrubber_2
+DaisygrubberOnHandleBottomPoseEffectorToLeft - ID Daisygrubber_3
+DaisygrubberOnEffectorTopPoseHandleToRight - ID Daisygrubber_4
+DaisygrubberOnEffectorTopPoseHandleToLeft - ID Daisygrubber_5
+DaisygrubberOnEffectorBottomPoseHandleToRight - ID Daisygrubber_6
+DaisygrubberOnEffectorBottomPoseHandleToLeft - ID Daisygrubber_7

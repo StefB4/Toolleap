@@ -1,0 +1,10 @@
+Zester Pose IDS (not formatted in any particular way, only for human interpretability) 
+
+ZesterOnHandleTopPoseEffectorToRight - ID Zester_0
+ZesterOnHandleTopPoseEffectorToLeft - ID Zester_1
+ZesterOnHandleBottomPoseEffectorToRight - ID Zester_2
+ZesterOnHandleBottomPoseEffectorToLeft - ID Zester_3
+ZesterOnEffectorTopPoseHandleToRight - ID Zester_4
+ZesterOnEffectorTopPoseHandleToLeft - ID Zester_5
+ZesterOnEffectorBottomPoseHandleToRight - ID Zester_6
+ZesterOnEffectorBottomPoseHandleToLeft - ID Zester_7

@@ -1,0 +1,10 @@
+Paintbrush Pose IDS (not formatted in any particular way, only for human interpretability) 
+
+PaintbrushOnHandleTopPoseEffectorToRight - ID Paintbrush_0
+PaintbrushOnHandleTopPoseEffectorToLeft - ID Paintbrush_1
+PaintbrushOnHandleBottomPoseEffectorToRight - ID Paintbrush_2
+PaintbrushOnHandleBottomPoseEffectorToLeft - ID Paintbrush_3
+PaintbrushOnEffectorTopPoseHandleToRight - ID Paintbrush_4
+PaintbrushOnEffectorTopPoseHandleToLeft - ID Paintbrush_5
+PaintbrushOnEffectorBottomPoseHandleToRight - ID Paintbrush_6
+PaintbrushOnEffectorBottomPoseHandleToLeft - ID Paintbrush_7

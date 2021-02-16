@@ -1,0 +1,10 @@
+Paletteknife Pose IDS (not formatted in any particular way, only for human interpretability) 
+
+PaletteknifeOnHandleTopPoseEffectorToRight - ID Paletteknife_0
+PaletteknifeOnHandleTopPoseEffectorToLeft - ID Paletteknife_1
+PaletteknifeOnHandleBottomPoseEffectorToRight - ID Paletteknife_2
+PaletteknifeOnHandleBottomPoseEffectorToLeft - ID Paletteknife_3
+PaletteknifeOnEffectorTopPoseHandleToRight - ID Paletteknife_4
+PaletteknifeOnEffectorTopPoseHandleToLeft - ID Paletteknife_5
+PaletteknifeOnEffectorBottomPoseHandleToRight - ID Paletteknife_6
+PaletteknifeOnEffectorBottomPoseHandleToLeft - ID Paletteknife_7

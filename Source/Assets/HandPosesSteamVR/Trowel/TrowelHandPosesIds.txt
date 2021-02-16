@@ -1,0 +1,10 @@
+Trowel Pose IDS (not formatted in any particular way, only for human interpretability) 
+
+TrowelOnHandleTopPoseEffectorToRight - ID Trowel_0
+TrowelOnHandleTopPoseEffectorToLeft - ID Trowel_1
+TrowelOnHandleBottomPoseEffectorToRight - ID Trowel_2
+TrowelOnHandleBottomPoseEffectorToLeft - ID Trowel_3
+TrowelOnEffectorTopPoseHandleToRight - ID Trowel_4
+TrowelOnEffectorTopPoseHandleToLeft - ID Trowel_5
+TrowelOnEffectorBottomPoseHandleToRight - ID Trowel_6
+TrowelOnEffectorBottomPoseHandleToLeft - ID Trowel_7

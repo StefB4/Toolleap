@@ -1,0 +1,10 @@
+Hammer Pose IDS (not formatted in any particular way, only for human interpretability) 
+
+HammerOnHandleTopPoseEffectorToRight - ID Hammer_0
+HammerOnHandleTopPoseEffectorToLeft - ID Hammer_1
+HammerOnHandleBottomPoseEffectorToRight - ID Hammer_2
+HammerOnHandleBottomPoseEffectorToLeft - ID Hammer_3
+HammerOnEffectorTopPoseHandleToRight - ID Hammer_4
+HammerOnEffectorTopPoseHandleToLeft - ID Hammer_5
+HammerOnEffectorBottomPoseHandleToRight - ID Hammer_6
+HammerOnEffectorBottomPoseHandleToLeft - ID Hammer_7

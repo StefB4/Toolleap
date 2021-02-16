@@ -1,0 +1,10 @@
+Spokewrench Pose IDS (not formatted in any particular way, only for human interpretability) 
+
+SpokewrenchOnHandleTopPoseEffectorToRight - ID Spokewrench_0
+SpokewrenchOnHandleTopPoseEffectorToLeft - ID Spokewrench_1
+SpokewrenchOnHandleBottomPoseEffectorToRight - ID Spokewrench_2
+SpokewrenchOnHandleBottomPoseEffectorToLeft - ID Spokewrench_3
+SpokewrenchOnEffectorTopPoseHandleToRight - ID Spokewrench_4
+SpokewrenchOnEffectorTopPoseHandleToLeft - ID Spokewrench_5
+SpokewrenchOnEffectorBottomPoseHandleToRight - ID Spokewrench_6
+SpokewrenchOnEffectorBottomPoseHandleToLeft - ID Spokewrench_7

@@ -1,0 +1,10 @@
+Wrench Pose IDS (not formatted in any particular way, only for human interpretability) 
+
+WrenchOnHandleTopPoseEffectorToRight - ID Wrench_0
+WrenchOnHandleTopPoseEffectorToLeft - ID Wrench_1
+WrenchOnHandleBottomPoseEffectorToRight - ID Wrench_2
+WrenchOnHandleBottomPoseEffectorToLeft - ID Wrench_3
+WrenchOnEffectorTopPoseHandleToRight - ID Wrench_4
+WrenchOnEffectorTopPoseHandleToLeft - ID Wrench_5
+WrenchOnEffectorBottomPoseHandleToRight - ID Wrench_6
+WrenchOnEffectorBottomPoseHandleToLeft - ID Wrench_7

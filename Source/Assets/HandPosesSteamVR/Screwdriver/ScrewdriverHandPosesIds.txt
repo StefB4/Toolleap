@@ -1,0 +1,10 @@
+Screwdriver Pose IDS (not formatted in any particular way, only for human interpretability) 
+
+ScrewdriverOnHandleTopPoseEffectorToRight - ID Screwdriver_0
+ScrewdriverOnHandleTopPoseEffectorToLeft - ID Screwdriver_1
+ScrewdriverOnHandleBottomPoseEffectorToRight - ID Screwdriver_2
+ScrewdriverOnHandleBottomPoseEffectorToLeft - ID Screwdriver_3
+ScrewdriverOnEffectorTopPoseHandleToRight - ID Screwdriver_4
+ScrewdriverOnEffectorTopPoseHandleToLeft - ID Screwdriver_5
+ScrewdriverOnEffectorBottomPoseHandleToRight - ID Screwdriver_6
+ScrewdriverOnEffectorBottomPoseHandleToLeft - ID Screwdriver_7

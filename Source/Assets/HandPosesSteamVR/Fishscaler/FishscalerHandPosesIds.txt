@@ -1,0 +1,10 @@
+Fishscaler Pose IDS (not formatted in any particular way, only for human interpretability) 
+
+FishscalerOnHandleTopPoseEffectorToRight - ID Fishscaler_0
+FishscalerOnHandleTopPoseEffectorToLeft - ID Fishscaler_1
+FishscalerOnHandleBottomPoseEffectorToRight - ID Fishscaler_2
+FishscalerOnHandleBottomPoseEffectorToLeft - ID Fishscaler_3
+FishscalerOnEffectorTopPoseHandleToRight - ID Fishscaler_4
+FishscalerOnEffectorTopPoseHandleToLeft - ID Fishscaler_5
+FishscalerOnEffectorBottomPoseHandleToRight - ID Fishscaler_6
+FishscalerOnEffectorBottomPoseHandleToLeft - ID Fishscaler_7
