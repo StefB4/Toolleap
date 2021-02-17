@@ -19,7 +19,7 @@ SteamVR controllers        |  LeapMotion hand tracking
 
 ### Prerequisites 
 
-In order to run the experiment either from the build or from source the [LeapMotion SDK](https://developer.leapmotion.com/sdk-leap-motion-controller/) as well as the [ViveSR runtime](https://developer.vive.com/resources/vive-sense/sdk/vive-eye-tracking-sdk-sranipal/) need to be installed. They enable communication between the eyetracker/ LeapMotion hardware and the experiment. Additionally, [SteamVR](https://store.steampowered.com/app/250820/) needs to be installed. The code and build are tested with LeapMotion SDK version 4.0.0 and ViveSR runtime version 1.1.2.0. 
+In order to run the experiment either from the build or from source the [LeapMotion SDK](https://developer.leapmotion.com/sdk-leap-motion-controller/) as well as the [ViveSR runtime](https://developer.vive.com/resources/vive-sense/sdk/vive-eye-tracking-sdk-sranipal/) need to be installed. They enable communication between the eyetracker/ LeapMotion hardware and the experiment. The code and build are tested with LeapMotion SDK version 4.0.0 and ViveSR runtime version 1.1.2.0. Additionally, [SteamVR](https://store.steampowered.com/app/250820/) needs to be installed. 
 
 ### Running the build 
 A build of the experiment is available in the `Build` folder. In addition to the LeapMotion SDK and the ViveSR runtime, proper configuration files need to be present inside the `Configuration` folder in order to run the experiment. Default configuration files are provided. 
